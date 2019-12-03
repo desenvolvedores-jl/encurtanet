@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="320" height="174.001" viewBox="0 0 320 174.001">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.242" y1="0.5" x2="0.198" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d3344e"/>
+      <stop offset="1" stop-color="#6a1a27" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_39" data-name="Grupo 39" transform="translate(-20 -448)">
+    <rect id="Retângulo_70" data-name="Retângulo 70" width="320" height="174" transform="translate(20 448)" fill="#0b3b4e"/>
+    <rect id="Retângulo_71" data-name="Retângulo 71" width="214" height="56" transform="translate(126 500)" fill="url(#linear-gradient)"/>
+    <text id="Tutorial_de_como_configurar_o_token" data-name="Tutorial de como
+configurar o token" transform="translate(319 522)" fill="#fff" font-size="20" font-family="ErasITC-Medium, Eras ITC" font-weight="500"><tspan x="-149.785" y="0">Tutorial de como</tspan><tspan x="-164.512" y="21">configurar o token</tspan></text>
+    <path id="Interseção_3" data-name="Interseção 3" d="M52,203V29h81.184C150.824,51.1,162,83.894,162,120.5c0,31.919-8.5,60.941-22.368,82.5Z" transform="translate(-32 419)" fill="#0a3344"/>
+    <text id="Clique_aqui_para_assistir" data-name="Clique aqui para assistir" transform="translate(321 568)" fill="#fff" font-size="13" font-family="Corbel" opacity="0.67"><tspan x="-125.436" y="0">Clique aqui para assistir</tspan></text>
+    <ellipse id="Elipse_24" data-name="Elipse 24" cx="36" cy="36.5" rx="36" ry="36.5" transform="translate(37 499)" fill="#ff002a" opacity="0.46"/>
+    <path id="Polígono_3" data-name="Polígono 3" d="M15.308,2.688a2,2,0,0,1,3.385,0L32.07,23.934A2,2,0,0,1,30.377,27H3.623A2,2,0,0,1,1.93,23.934Z" transform="translate(92 518) rotate(90)" fill="#fff"/>
+  </g>
+</svg>
