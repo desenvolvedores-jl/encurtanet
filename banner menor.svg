@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="324" height="56" viewBox="0 0 324 56">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.242" y1="0.5" x2="0.802" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d3344e"/>
+      <stop offset="1" stop-color="#6a1a27" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_37" data-name="Grupo 37" transform="translate(0 -584)">
+    <g id="Grupo_36" data-name="Grupo 36" transform="translate(0 584)">
+      <rect id="Retângulo_51" data-name="Retângulo 51" width="324" height="56" rx="4" fill="#0b1837"/>
+      <g id="chronometer" transform="translate(271.795 5)">
+        <g id="Grupo_10" data-name="Grupo 10">
+          <path id="Caminho_12" data-name="Caminho 12" d="M57.065,59.288A18.533,18.533,0,1,0,38.577,77.777,18.537,18.537,0,0,0,57.065,59.288ZM37.692,74.15v1.858A16.749,16.749,0,0,1,21.858,60.173h1.858a.885.885,0,1,0,0-1.769H21.858A16.749,16.749,0,0,1,37.692,42.569v1.858a.885.885,0,0,0,1.769,0V42.569A16.749,16.749,0,0,1,55.3,58.4H53.438a.885.885,0,0,0,0,1.769H55.3A16.749,16.749,0,0,1,39.462,76.008V74.15a.885.885,0,0,0-1.769,0Z" transform="translate(-20 -36.076)" fill="#d3344e"/>
+          <path id="Caminho_13" data-name="Caminho 13" d="M180.885,0A.836.836,0,0,0,180,.885a.836.836,0,0,0,.885.885,21.268,21.268,0,0,1,15.038,36.269,21.063,21.063,0,0,1-15.038,6.192.885.885,0,1,0,0,1.769,23,23,0,0,0,0-46Z" transform="translate(-162.308)" fill="#d3344e"/>
+          <text id="_24H" data-name="24H" transform="translate(9.205 27)" fill="#d3344e" font-size="10" font-family="MyanmarText-Bold, Myanmar Text" font-weight="700"><tspan x="0" y="0">24H</tspan></text>
+        </g>
+      </g>
+    </g>
+    <rect id="Retângulo_56" data-name="Retângulo 56" width="248" height="19" transform="translate(0 617)" opacity="0.7" fill="url(#linear-gradient)"/>
+    <text id="Pagamentos_em_até_24HRS_do_encurtanet_impossível_" data-name="Pagamentos em até 24HRS
+(do encurtanet), impossível?" transform="translate(14 599)" fill="#fff" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">PAGAMENTOS EM ATÉ 24HRS</tspan><tspan x="0" y="13">(DO ENCURTANET), IMPOSSÍVEL?</tspan></text>
+    <text id="Clique_aqui" data-name="Clique aqui" transform="translate(14 632)" fill="#fc0" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">CLIQUE AQUI</tspan></text>
+  </g>
+</svg>
