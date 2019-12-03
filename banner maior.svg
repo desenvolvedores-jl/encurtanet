@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="326" height="116" viewBox="0 0 326 116">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.242" y1="0.5" x2="0.802" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d3344e"/>
+      <stop offset="1" stop-color="#6a1a27" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_11" data-name="Grupo 11" transform="translate(-17 -513)">
+    <rect id="Retângulo_51" data-name="Retângulo 51" width="326" height="116" rx="8" transform="translate(17 513)" fill="#0b1837"/>
+    <text id="encurta_express" data-name="encurta express" transform="translate(118 538)" fill="#fff" font-size="20" font-family="MyanmarText-Bold, Myanmar Text" font-weight="700"><tspan x="-89.951" y="0">ENCURTA EXPRESS</tspan></text>
+    <text id="Pagamentos_em_até_24HRS_do_encurtanet_impossível_" data-name="Pagamentos em até 24HRS
+(do encurtanet), impossível?" transform="translate(28 563)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">PAGAMENTOS EM ATÉ 24HRS</tspan><tspan x="0" y="13">(DO ENCURTANET), IMPOSSÍVEL?</tspan></text>
+    <rect id="Retângulo_56" data-name="Retângulo 56" width="201" height="30" transform="translate(17 588)" fill="url(#linear-gradient)"/>
+    <text id="clica_aqui" data-name="clica aqui" transform="translate(28 607)" fill="#fc0" font-size="12" font-family="MalgunGothicBold, Malgun Gothic"><tspan x="0" y="0">CLICA AQUI</tspan></text>
+    <g id="chronometer" transform="translate(312 762.185)">
+      <g id="Grupo_10" data-name="Grupo 10" transform="translate(-60 -236.197)">
+        <path id="Caminho_12" data-name="Caminho 12" d="M91.812,76.62a35.906,35.906,0,1,0-35.82,35.82A35.915,35.915,0,0,0,91.812,76.62ZM54.278,105.414v3.6A32.45,32.45,0,0,1,23.6,78.334h3.6a1.714,1.714,0,0,0,0-3.428H23.6A32.45,32.45,0,0,1,54.278,44.228v3.6a1.714,1.714,0,0,0,3.428,0v-3.6A32.45,32.45,0,0,1,88.384,74.907h-3.6a1.714,1.714,0,0,0,0,3.428h3.6a32.45,32.45,0,0,1-30.679,30.679v-3.6a1.714,1.714,0,0,0-3.428,0Z" transform="translate(-20 -31.648)" fill="#d3344e"/>
+        <path id="Caminho_13" data-name="Caminho 13" d="M181.714,0A1.619,1.619,0,0,0,180,1.714a1.619,1.619,0,0,0,1.714,1.714A41.2,41.2,0,0,1,210.85,73.7a40.808,40.808,0,0,1-29.136,12,1.714,1.714,0,1,0,0,3.428,44.561,44.561,0,0,0,0-89.123Z" transform="translate(-145.722)" fill="#d3344e"/>
+        <text id="_24H" data-name="24H" transform="translate(16 52.011)" fill="#d3344e" font-size="20" font-family="MyanmarText-Bold, Myanmar Text" font-weight="700"><tspan x="0" y="0">24H</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
